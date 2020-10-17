@@ -1,2 +1,3 @@
 # Hello Word
- The first repository
+ Repositório do curso Ciência dos Dados
+ 
