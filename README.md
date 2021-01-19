@@ -5,3 +5,4 @@ O curso aborda o passo-a-passo da linguagem python e suas principais bibliotecas
  
 Também aponta todos as etapas essenciais na construção de uma máquina preditiva, tais como: apresentação do problema de negócio, análise e exploração dos dados, pré-processamento, criação e avaliação da máquina preditiva, e seus diversos algoritmos!
  
+https://cienciadosdados.com/ 
